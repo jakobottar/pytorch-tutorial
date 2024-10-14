@@ -1,6 +1,6 @@
 # PyTorch Demo
 
-get cat image data here: https://www.dropbox.com/s/y1cxgxec95e181a/cat_images.zip?dl=0
+get cat image data here: https://nc.jakobj.dev/s/Xt5bR9QYyER2g4n
 
 install dependencies with 
 ```bash
